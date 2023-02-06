@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritik6207
+- 👋 Hi, I’m Ritik Kumar
 - 👀 I’m interested in coding
 <!---
 ritik6207/ritik6207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
