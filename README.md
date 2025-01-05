@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **AI-Content-Generator**
+- 🔭 I’m currently working on **Java Full Stack Projects**
 
 - 🌱 I’m currently learning **NextJs and Typescript**
 
